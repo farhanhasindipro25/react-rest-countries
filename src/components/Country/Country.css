@@ -9,3 +9,9 @@
 .country-title{
     color: #61dafb;
 }
+.flag{
+    padding-top: 10px;
+    width: 50%;
+    height: 20vh;
+    border-radius: 20px;
+}
