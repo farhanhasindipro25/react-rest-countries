@@ -1,0 +1,11 @@
+.country{
+    margin: 20px;
+    background-color: #282c34;
+    border: 2px solid #61dafb;
+    padding: 10px;
+    color: white;
+    border-radius: 20px;
+}
+.country-title{
+    color: #61dafb;
+}
